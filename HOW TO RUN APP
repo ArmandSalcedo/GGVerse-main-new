@@ -1,0 +1,12 @@
+Instructions to run this app.
+
+run bash on root folder ("public" folder in this case) 
+ - just type cmd on url folder path
+
+when in bash
+ - type npm install
+ - type npm start
+
+the dedicated port is 3000
+
+in browser go to http://localhost:3000/

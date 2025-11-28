@@ -1,0 +1,13 @@
+{
+  "name": "cors-proxy-app",
+  "version": "1.0.0",
+  "description": "A Node.js proxy to bypass CORS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
+  }
+}
